@@ -1,0 +1,146 @@
+[
+  [
+    {
+      "text": "Fish and chips is nice.",
+      "is_target": true
+    }
+  ],
+  [
+    {
+      "text": "The heart and soul of the address was a call to collective action on a wide array of fronts.",
+      "is_target": true
+    }
+  ],
+  [
+    {
+      "text": "Father, husband and colleague doesn't flirt with anyone.",
+      "is_target": true
+    }
+  ],
+  [
+    {
+      "text": "My lord and husband is come home.",
+      "is_target": true
+    }
+  ],
+  [
+    {
+      "text": "Peanut butter and jelly is the best sandwich of all.",
+      "is_target": true
+    }
+  ],
+  [
+    {
+      "text": "Simon and Garfunkel sounds really mellow right now.",
+      "is_target": true
+    }
+  ],
+  [
+    {
+      "text": "Tide and time waits for no man.",
+      "is_target": true
+    }
+  ],
+  [
+    {
+      "text": "Our President and CEO is Joe Schmoe.",
+      "is_target": true
+    }
+  ],
+  [
+    {
+      "text": "Running and jumping is all I want to do today.",
+      "is_target": true
+    }
+  ],
+  [
+    {
+      "text": "The master and commander has not yet returned.",
+      "is_target": true
+    }
+  ],
+  [
+    {
+      "text": "Yesterday is gone; today is fleeting as we speak; tomorrow and tomorrow and tomorrow is all that remains to us.",
+      "is_target": true
+    }
+  ],
+  [
+    {
+      "text": "Bacon and eggs is my favourite breakfast.",
+      "is_target": true
+    }
+  ],
+  [
+    {
+      "text": "Or is it because so much time and attention is given to the latter.",
+      "is_target": true
+    }
+  ],
+  [
+    {
+      "text": "Where is the Messiah and his Kingdom?",
+      "is_target": true
+    }
+  ],
+  [
+    {
+      "text": "An extraordinary leader whose vision, values, integrity and boundless curiosity inspires all who follow in his footsteps.",
+      "is_target": true
+    }
+  ],
+  [
+    {
+      "text": "Early to bed and early to rise, makes a man healthy, wealthy, and wise.",
+      "is_target": false
+    }
+  ],
+  [
+    {
+      "text": "My affections and wishes are unchanged, but one word from you will silence me on this subject for ever.",
+      "is_target": false
+    }
+  ],
+  [
+    {
+      "text": "Bingley and Jane, however, soon allowed the others to outstrip them.",
+      "is_target": true
+    }
+  ],
+  [
+    {
+      "text": "His understanding and opinions all please me; he wants nothing but a little more liveliness, and that, if he marry prudently, his wife may teach him.",
+      "is_target": false
+    }
+  ],
+  [
+    {
+      "text": "How Wickham and Lydia were to be supported in tolerable independence, she could not imagine.",
+      "is_target": false
+    }
+  ],
+  [
+    {
+      "text": "My visit was not long, as Caroline and Mrs. Hurst were going out.",
+      "is_target": false
+    }
+  ],
+  [
+    {
+      "text": "Her home and her housekeeping, her parish and her poultry, and all their dependent concerns, had not yet lost their charms.",
+      "is_target": true
+    }
+  ],
+  [
+    {
+      "text": "The compliment to herself and her sister was not unfelt.",
+      "is_target": true
+    }
+  ],
+  [
+    {
+      "text": "“We will go as far as Meryton with you,” said Catherine and Lydia.",
+      "is_target": true
+    }
+  ]
+]
