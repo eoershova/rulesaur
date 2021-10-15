@@ -1,4 +1,4 @@
-# rulesaur
+# rulesaur :crocodile:
 3 GEC tasks 
 
 
