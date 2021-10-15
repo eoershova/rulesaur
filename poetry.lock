@@ -197,6 +197,17 @@ pyparsing = ">=2.0.2"
 
 [[package]]
 category = "main"
+description = "Parameterized testing with any Python test framework"
+name = "parameterized"
+optional = false
+python-versions = "*"
+version = "0.8.1"
+
+[package.extras]
+dev = ["jinja2"]
+
+[[package]]
+category = "main"
 description = "pathlib.Path subclasses for local and cloud bucket storage"
 name = "pathy"
 optional = false
@@ -491,7 +502,7 @@ docs = ["sphinx", "jaraco.packaging (>=8.2)", "rst.linker (>=1.9)"]
 testing = ["pytest (>=4.6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytest-cov", "pytest-enabler (>=1.0.1)", "jaraco.itertools", "func-timeout", "pytest-black (>=0.3.7)", "pytest-mypy"]
 
 [metadata]
-content-hash = "125e39a36ea148f65d8cbf62f18314b5d5f1258b67a0a08d464c6f9391e6e82c"
+content-hash = "eb87dfa450ce041db742c6e722edc37844862a76220a63728c23db7c39a7fd98"
 lock-version = "1.0"
 python-versions = "^3.6"
 
@@ -708,6 +719,10 @@ numpy = [
 packaging = [
     {file = "packaging-21.0-py3-none-any.whl", hash = "sha256:c86254f9220d55e31cc94d69bade760f0847da8000def4dfe1c6b872fd14ff14"},
     {file = "packaging-21.0.tar.gz", hash = "sha256:7dc96269f53a4ccec5c0670940a4281106dd0bb343f47b7471f779df49c2fbe7"},
+]
+parameterized = [
+    {file = "parameterized-0.8.1-py2.py3-none-any.whl", hash = "sha256:9cbb0b69a03e8695d68b3399a8a5825200976536fe1cb79db60ed6a4c8c9efe9"},
+    {file = "parameterized-0.8.1.tar.gz", hash = "sha256:41bbff37d6186430f77f900d777e5bb6a24928a1c46fb1de692f8b52b8833b5c"},
 ]
 pathy = [
     {file = "pathy-0.6.0-py3-none-any.whl", hash = "sha256:bffa0bd74c66575cf51c96d3ab312f34d08d6bff54aabb8c7a2b9f8b701fe6ef"},
